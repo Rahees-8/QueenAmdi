@@ -1,5 +1,5 @@
 module.exports = {
-    QUEEN_AMDI_OWNER: '94757405652', // Black Amda - Queen Amdi Owner
-    QUEEN_AMDI_TEAM: '94719077818,94757672873,94774976567,94766426385,94711870791', // Team - Queen Amdi TEAM
-    SEW_QUEEN_OWNER: '94785435462' // Ravindu Manoj - Sew Queen Owner --> For The Friendship 
+    QUEEN_AMDI_OWNER: '917994206751', // Black Amda -𝙍𝘼𝙃𝙀𝙀𝙎  Owner
+    QUEEN_AMDI_TEAM: '917994206751', // Team - 𝙍𝘼𝙃𝙀𝙀𝙎
+    SEW_QUEEN_OWNER: '917994206751' // Ravindu Manoj - Sew 𝙍𝘼𝙃𝙀𝙀𝙎 Owner --> For The Friendship 
 }; 
